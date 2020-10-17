@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Who is Emre Demirhan?**
 
-I graduated from departmant of Economics, METU in 2014. I have been working as revenue management specialist in Turkish Airlines about 5 years. I want to improve myself in a a data analysis and this why I enroll this program.You can find my LinkedIn Profile [here](https://www.linkedin.com/)
+I graduated from departmant of Economics, METU in 2014. I have been working as revenue management specialist in Turkish Airlines more than 4 years. I want to improve myself in a data analysis and this why I enroll this program.You can find my LinkedIn Profile [here](https://www.linkedin.com/)
 
 **useR!2020: missMethods**
 
