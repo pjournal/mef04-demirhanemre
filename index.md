@@ -1,7 +1,11 @@
-##Assignments
+## Welcome to Emre Demirhan's Progress Journal
+### BDA 503 - Data Analytics Essentials
 
-[Deneme]
 
+### Assignments
+**Assignment 1:**  A report consists of description of myself and some *R related videos and posts* by using Rmarkdown. 
+
+- R Videos and Posts Review: [html](https://github.com/pjournal/mef04-demirhanemre/blob/gh-pages/Assignment1-Deneme.html)<br>
 
 ## Welcome to GitHub Pages
 
