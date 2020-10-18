@@ -6,5 +6,5 @@
 ### Assignments
 **Assignment 1:**  A report consists of description of myself and some *R related videos and posts* by using Rmarkdown. 
 
-[RMarkdown Homework](https://github.com/pjournal/mef04-demirhanemre/Assignment1-Deneme.html)
+[RMarkdown Homework](https://pjournal.github.io/mef04-demirhanemre/Assignment1-Deneme.html)
 
