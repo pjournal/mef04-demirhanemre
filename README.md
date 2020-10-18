@@ -1,4 +1,4 @@
-# mef04-demirhanemre
-mef04-demirhanemre created by GitHub Classroom
+# Repositery by Emre Demirhan
 
-Here you can find Emre Demirhan's my progress journal
+You can find my progress journal page in github via
+[Link](https://github.com/pjournal/mef04-demirhanemre)
