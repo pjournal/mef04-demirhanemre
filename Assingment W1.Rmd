@@ -1,0 +1,39 @@
+---
+title: "Assignmet W1"
+author: "Emre Demirhan"
+date: "10/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Who is Emre Demirhan?**
+
+I graduated from department of Economics, METU in 2014. I started my career as an assistant inspector in banking sector, I have worked with risk oriented perspective about 2 years in this role. Then, I have changed my job in March 2016. From this date, I have been working as revenue management specialist in Turkish Airlines. Currently, my main responsibilities are analyzing trends in reservations, developing strategies to maximize passenger revenue, forecasting market positioning with competitive pricing. I want to improve myself in data analytics because I believe big data analytics will dominate  next 20 years. Having a knowledge on this area will provide serious advantage in every field. Briefly, this is the reason why I enroll this program.You can access my [LinkedIn Profile](https://www.linkedin.com/)
+
+## UseR2020
+### [Quantifying the immune system with the MMI package]https://www.youtube.com/watch?v=kjjI9vsOIxQ
+
+Immune cells frequencies are very essential for human health and disease. The main purpose of this video is identifying the immune cell frequencies in 816 French individual between the age 20 and 70 who are from different demographical factor. In this study, standardized flow cytometry and a questionnaire are combined while investigating the different backgrounds. Also, datasets of this research are biomolecular and demographical which are income, education, diet, depression, exercise. A package in R which named as MMI model is used in this study to specify family models. MMI model can be used to generate hypotheses in immunology.
+
+
+## R Post Relevant to My Interests
+### Airline Revenue Management
+
+In Airline industry, maximizing revenue per flight is a key question in revenue management.  As there are hundreds of factors that affect ticket sales, maximum revenue is big unknow for airlines in every year prediction. Hence, airlines are trying to maximize their revenues by different methods. In this study, how many discount tickets need to sell to achieve maximum revenue per flight is investigated by using R. 
+
+You can read this post [here]https://rpubs.com/kismetk/airline-revenue-management
+
+### Turkey vs. Germany: COVID-19
+
+The main aim of this study is comparing COVID-19 cases and deaths numbers in Turkey with Germany. As some parts of society always compare Turkey to Germany in a lot of issues, Mr. Disci select COVID-19 cases and deaths in this time to compare with Germany. In the study, it is concluded that the Turkey’s COVID-19 normalization calendar by June 1 is acceptable when the dataset evaluated statistically.
+
+You can read this post [here]https://www.r-bloggers.com/2020/05/turkey-vs-germany-covid-19/
+
+### Learning Statistics on Youtube
+
+Youtube is the second mostly visited website in the world. In this video sharing platform, there are many brilliant and hard-working content creators producing high-quality and free educational videos that students and academics alike can enjoy. In this article, useful videos about learning statistics are listed and categorized by different topics.
+
+You can read this post [here]https://www.r-bloggers.com/2016/09/learning-statistics-on-youtube/
