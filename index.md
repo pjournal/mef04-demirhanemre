@@ -21,9 +21,4 @@ Electricity Market Prices-will be revised
 
 [EPIAS Homework](https://pjournal.github.io/mef04-demirhanemre/EPIAS_ED_2330.html)
 
-- [ ] **Bonus- 2020- 11- 04:**
-
-[Bonus_Assignment](https://pjournal.github.io/mef04-demirhanemre/Bonus20201104.html)
-
 - [ ] **Assignment 3(individual)(Due Date: Dec 24, 2020 23:59)**
-
