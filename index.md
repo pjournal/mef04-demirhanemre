@@ -13,7 +13,7 @@ About myself and some R related videos and posts by using Rmarkdown.
 
 Analyzing Property Sales data for Istanbul 
 
-[EVDS](https://github.com/pjournal/mef04-demirhanemre/blob/gh-pages/3Jan21_EVDS_Data_R.html)
+[EVDS](https://pjournal.github.io/mef04-demirhanemre/3Jan21_EVDS_Data_R.html)
 
 - [ ] **Assignment 2-Electricity Market Prices (Due Date: Nov 12, 2020):** 
 
