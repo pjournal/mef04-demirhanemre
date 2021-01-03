@@ -3,17 +3,27 @@
 ### BDA 503 - Data Analytics Essentials
 
 ### Assignments
-**Assignment 1-(W1):**  A report consists of description of myself and some *R related videos and posts* by using Rmarkdown. 
+- [x] **Assignment 1-R Markdown Homework (Deadline Oct 21, 18:30)**  
+
+About myself and some R related videos and posts by using Rmarkdown. 
 
 [RMarkdown Homework](https://pjournal.github.io/mef04-demirhanemre/Assignment-W1.html)
 
-**Assignment 2-(W3):**  Electricity Market Prices
+- [x] **In-Class Exercise-(Bonus)(Due Date: Nov 4, 2020 21:30)** 
+
+Analyzing Property Sales data for Istanbul 
+
+[EVDS](https://github.com/pjournal/mef04-demirhanemre/blob/gh-pages/3Jan21_EVDS_Data_R.html)
+
+- [ ] **Assignment 2-Electricity Market Prices (Due Date: Nov 12, 2020):** 
+
+Electricity Market Prices-will be revised
 
 [EPIAS Homework](https://pjournal.github.io/mef04-demirhanemre/EPIAS_ED_2330.html)
 
-**Bonus- 2020- 11- 04:**
+- [ ] **Bonus- 2020- 11- 04:**
 
 [Bonus_Assignment](https://pjournal.github.io/mef04-demirhanemre/Bonus20201104.html)
 
-
+- [ ] **Assignment 3(individual)(Due Date: Dec 24, 2020 23:59)**
 
